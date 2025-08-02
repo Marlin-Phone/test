@@ -1,2 +1,1 @@
-# test
-一些个人的快速简单的尝试
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlin-phone)](https://github.com/anuraghazra/github-readme-stats)
